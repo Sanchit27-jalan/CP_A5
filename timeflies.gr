@@ -1,0 +1,15 @@
+1	ROOT	S
+1.0	S	NP VP
+0.25	NP	N N
+0.4	NP	D N
+0.35	NP	N
+0.6	VP	V NP
+0.4	VP	V ADVP
+1.0	ADVP	ADV NP
+0.4	N	time
+0.2	N	flies
+0.4	N	arrow
+1.0	D	an
+1.0	ADV	like
+0.5	V	flies
+0.5	V	like
